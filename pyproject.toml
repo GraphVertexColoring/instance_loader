@@ -10,6 +10,6 @@ authors = [
   {name = "Frederik M. Dam", email = "Fdam39@gmail.com"}
 ]
 readme = "README.md"
-license = {text = "MIT"}
+license = {text = "GNU"}
 requires-python = ">=3.7"
 dependencies = ["torch>=1.8", "torchvision>=0.9"]
