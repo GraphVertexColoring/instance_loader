@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+instance_loader/__init__.py
+instance_loader/dataset.py
+instance_loader/parser.py
+instance_loader/utils.py
+instance_loader.egg-info/PKG-INFO
+instance_loader.egg-info/SOURCES.txt
+instance_loader.egg-info/dependency_links.txt
+instance_loader.egg-info/requires.txt
+instance_loader.egg-info/top_level.txt
+tests/test_singular_file.py
